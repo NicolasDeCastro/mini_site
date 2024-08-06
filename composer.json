@@ -1,0 +1,15 @@
+{
+  "name": "nicolas/php",
+  "description": "teste composer",
+  "type": "project",
+  "minimum-stability": "dev",
+  "require": {
+    "pecee/simple-router": "dev-master",
+    "twig/twig": "4.x-dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "src\\": "src/"
+    }
+  }
+}

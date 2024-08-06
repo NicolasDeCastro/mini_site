@@ -1,0 +1,6 @@
+# Ignorar o arquivo de lock do Composer
+composer.phar
+# Ignorar a pasta /vendor/
+/vendor/
+# Ignorar o arquivo composer.lock
+composer.lock
